@@ -12,7 +12,7 @@ This is a simple calculator web application built with React. It can perform bas
 Clone the project
 
 ```bash
-  git clone https://github.com/coung21/weather-app-terminal.git
+  git clone https://github.com/coung21/Caculator
 ```
 
 Go to the project directory
